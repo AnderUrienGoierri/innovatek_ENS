@@ -15,7 +15,3 @@
 | Software | n8n (Plataforma de Automatización) | IT Manager | Nube (Docker/PaaS) | Acceso por Token + Logs |
 | Hardware | Firewall Perimetral (Fortinet/Cisco) | IT Manager | Oficina Central | Firmware Actualizado + Reglas Estrictas |
 | Información | Copias de Seguridad (Backups offline) | IT Manager | Ubicación física segura | Cifrado AES-256 + Inmutabilidad |
-| Hardware | Portátil HP EliteBook (SN:123) | Juan Pérez | Oficina / Remoto | Cifrado Bitlocker + Antivirus |
-| Software | Microsoft 365 Business | IT Manager | Nube (Europa) | Doble Factor (MFA) |
-| Información | Base de Datos Clientes | Dpto. Ventas | Azure SQL | Backup diario + Cifrado |
-| Red | Router Principal Movistar | IT Manager | Oficina Central | Password Robusta + Firewall |

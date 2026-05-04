@@ -11,7 +11,7 @@
 | op.1 | Planificación (Inventario) | SÍ | Implementado | Inventario de Activos INNOVATEK |
 | op.2 | Control de accesos | SÍ | Implementado | Configuración Google Workspace / IAM |
 | op.3 | Explotación | SÍ | Implementado | Procedimientos de despliegue |
-| op.4 | Gestión de incidencias | SÍ | En proceso | Manual de respuesta a ataques v1.0 |
+| op.4 | Gestión de incidencias | SÍ | Implementado | Manual de respuesta y registro de incidentes v1.0 |
 | op.5 | Gestión de la configuración | SÍ | Implementado | Listado de versiones n8n y apps |
 | op.6 | Gestión de cambios | SÍ | Implementado | Registro de cambios en staging |
 | op.7 | Prot. frente a código dañino | SÍ | Implementado | Antivirus actualizado |
