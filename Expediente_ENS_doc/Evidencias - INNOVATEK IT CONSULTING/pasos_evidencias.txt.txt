@@ -1,0 +1,15 @@
+Cualquiera puede poner "Cumple" en un Excel. Para que la certificación sea válida, necesitas pruebas visuales.
+
+Crea una subcarpeta dentro de tu "Expediente ENS" llamada "Evidencias". Ahí vas a ir guardando capturas de pantalla (en formato imagen o PDF) que demuestren que las medidas clave del Excel anterior son reales.
+
+Ejemplos de capturas clave que debes hacer hoy mismo:
+
+Evidencia de Antivirus: Una captura de pantalla del ordenador de trabajo donde se vea que el antivirus (Windows Defender, Karspersky, etc.) está activado y actualizado.
+
+Evidencia de Accesos (MFA): Una captura de pantalla del panel de administración de Google Workspace (o de vuestro sistema principal) que muestre que el Doble Factor de Autenticación (MFA/2FA) está activado y es obligatorio para los usuarios.
+
+Evidencia de Copias de Seguridad (Backups): Una captura de pantalla del panel donde configuráis las copias de seguridad (ya sea en la nube, en Google Drive o en vuestro servidor) donde se vea que se han completado con éxito recientemente.
+
+Evidencia de Bloqueo de Pantalla: Una captura de la configuración de Windows/Mac que muestre que la pantalla se bloquea automáticamente tras X minutos de inactividad.
+
+Evidencia de n8n: Una captura que demuestre que el acceso a vuestra herramienta de automatización requiere credenciales seguras.
